@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Simons LS Mods</title>
-        <link>https://localhost/categories/</link>
+        <link>https://the-fl3dd0x.github.io/mod-website/categories/</link>
         <description>Recent content in Categories on Simons LS Mods</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>de</language>
-        <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://localhost/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://the-fl3dd0x.github.io/mod-website/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>By Sticke</title>
-        <link>https://localhost/categories/by-sticke/</link>
+        <link>https://the-fl3dd0x.github.io/mod-website/categories/by-sticke/</link>
         <pubDate>Tue, 01 Aug 2023 00:00:00 +0100</pubDate>
         
-        <guid>https://localhost/categories/by-sticke/</guid>
+        <guid>https://the-fl3dd0x.github.io/mod-website/categories/by-sticke/</guid>
         <description></description>
         </item>
         

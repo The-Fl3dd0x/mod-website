@@ -1,4 +1,4 @@
-baseURL = 'https://localhost/'
+baseURL = 'https://the-fl3dd0x.github.io/mod-website/'
 languageCode = 'de'
 title = 'Simons LS Mods'
 theme = 'stack'
