@@ -1,0 +1,8 @@
+baseURL = 'https://localhost/'
+languageCode = 'de'
+title = 'Simons LS Mods'
+theme = 'stack'
+defaultContentLanguage = "de"
+
+[params]
+favicon = "/favicon.ico"

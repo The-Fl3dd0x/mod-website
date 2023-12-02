@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Simons LS Mods</title>
+        <link>https://localhost/post/</link>
+        <description>Recent content in Posts on Simons LS Mods</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>de</language>
+        <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://localhost/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Ellerbach By Sticke</title>
+        <link>https://localhost/post/ellerbach/</link>
+        <pubDate>Tue, 01 Aug 2023 00:00:00 +0100</pubDate>
+        
+        <guid>https://localhost/post/ellerbach/</guid>
+        <description>&lt;img src="https://localhost/post/ellerbach/ellerbach.png" alt="Featured image of post Ellerbach By Sticke" /&gt;&lt;h1 id=&#34;downloadhttpsdrivegooglecomucexportdownloadid1b3qmtfetyvzu2u7lel1vj9w15w-villl&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/uc?export=download&amp;amp;id=1b3qmTFEtyvzU2U7LeL1VJ9w15W-viLLl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DOWNLOAD&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;beschreibung&#34;&gt;Beschreibung&lt;/h2&gt;
+&lt;p&gt;Willkommen in Ellerbach im wunderschönen Bayern. Hier, zwischen Oberbayern und Schwaben liegen die drei Ortschaften Oberellerbach, Unterellerbach und Bachern.
+Changelog 1.1.0.0&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Seasons ready&lt;/li&gt;
+&lt;li&gt;Snowmask&lt;/li&gt;
+&lt;li&gt;Schneedächer&lt;/li&gt;
+&lt;li&gt;Dynamischer Foliagetexturenwechsel&lt;/li&gt;
+&lt;li&gt;Eisplanen&lt;/li&gt;
+&lt;li&gt;Dynamischer Poolwasserwechsel&lt;/li&gt;
+&lt;li&gt;Performance-Verbesserungen&lt;/li&gt;
+&lt;li&gt;Neues Straßensystem&lt;/li&gt;
+&lt;li&gt;Gebäude neu texturiert/gebaut&lt;/li&gt;
+&lt;li&gt;Dateigröße angepasst&lt;/li&gt;
+&lt;li&gt;BGA&amp;rsquo;s gefixt&lt;/li&gt;
+&lt;li&gt;Bunkersilos gefixt&lt;/li&gt;
+&lt;li&gt;Sämtliche Texturen geändert&lt;/li&gt;
+&lt;li&gt;Gebäude Collis neugebaut&lt;/li&gt;
+&lt;li&gt;Zaun Collis neu gebaut&lt;/li&gt;
+&lt;li&gt;Tip Collis gefixt&lt;/li&gt;
+&lt;li&gt;Hof Langer neugebaut&lt;/li&gt;
+&lt;li&gt;Tiere gefixt&lt;/li&gt;
+&lt;li&gt;Verkehr gefixt&lt;/li&gt;
+&lt;li&gt;Neuer Wolle verkauf&lt;/li&gt;
+&lt;li&gt;Transport Missionen hinzugefügt&lt;/li&gt;
+&lt;li&gt;Feld Definitionen angepasst&lt;/li&gt;
+&lt;li&gt;Farmlands angepasst&lt;/li&gt;
+&lt;li&gt;Unterstand in Bachern nun einzeln kaufbar&lt;/li&gt;
+&lt;li&gt;BGA Wolf nun einzeln kaufbar&lt;/li&gt;
+&lt;li&gt;Trigger angepasst&lt;/li&gt;
+&lt;li&gt;Objekte unter der Map gelöscht&lt;/li&gt;
+&lt;li&gt;Neues Preview Bild&lt;/li&gt;
+&lt;li&gt;Farmland Preise angepasst&lt;/li&gt;
+&lt;li&gt;NavMeshes angepasst&lt;/li&gt;
+&lt;li&gt;Laubbäume teilweise getauscht&lt;/li&gt;
+&lt;li&gt;Wasser Trigger gefixt&lt;/li&gt;
+&lt;li&gt;Sektionaltore gefixt
+Changelog 1.2.0.0&lt;/li&gt;
+&lt;li&gt;Weidezaun gefixt&lt;/li&gt;
+&lt;li&gt;Collisionen gefixt&lt;/li&gt;
+&lt;li&gt;Schneedach gefixt
+Changelog 1.3.0.0&lt;/li&gt;
+&lt;li&gt;MaizePlus Skript ready (The Alien Paul, Modelleicher)
+Changelog 1.4.0.0&lt;/li&gt;
+&lt;li&gt;Manure System ready&lt;/li&gt;
+&lt;li&gt;kleinere Bugfixes
+Changelog 1.5.0.0&lt;/li&gt;
+&lt;li&gt;Update für MaizePlus ForageExtension&lt;/li&gt;
+&lt;li&gt;schwebenden Baum gefixt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Es wird ein neuer Spielstand benötigt!&lt;/p&gt;
+&lt;p&gt;Changelog 2.0.0.0&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;für LS22 konvertiert
+Changelog 2.1.0.0&lt;/li&gt;
+&lt;li&gt;Zapfwellen und BGA Deko haben jetzt die korrekte Farbe&lt;/li&gt;
+&lt;li&gt;unbenutzte Texturen wurden entfernt&lt;/li&gt;
+&lt;li&gt;fillTypes an den Verkaufstationen gefixt&lt;/li&gt;
+&lt;li&gt;unrealistische Früchte entfernt&lt;/li&gt;
+&lt;li&gt;Höfe richtig gefärbt
+Changelog 2.2.0.0&lt;/li&gt;
+&lt;li&gt;Klee, Luzerne und Roggen hinzugefügt&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Getunter Lizard Golfwagen</title>
+        <link>https://localhost/post/golfcart/</link>
+        <pubDate>Mon, 02 Jan 2023 00:00:00 +0100</pubDate>
+        
+        <guid>https://localhost/post/golfcart/</guid>
+        <description>&lt;img src="https://localhost/post/golfcart/golfCart.png" alt="Featured image of post Getunter Lizard Golfwagen" /&gt;&lt;h1 id=&#34;downloadhttpsdrivegooglecomucexportdownloadid1-4kl_nhorxx4iuihzdci0e180zi5allf&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/uc?export=download&amp;amp;id=1-4Kl_nhorXX4iuIHZdCI0e180zI5aLlf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DOWNLOAD&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;beschreibung&#34;&gt;Beschreibung&lt;/h2&gt;
+&lt;p&gt;Golfwagen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preis: 8000€&lt;/li&gt;
+&lt;li&gt;Farbauswahl&lt;/li&gt;
+&lt;li&gt;Marke: Lizard&lt;/li&gt;
+&lt;li&gt;Konfigurierbares Dach&lt;/li&gt;
+&lt;li&gt;getunter Motor&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Mühlenrinks Enchanted</title>
+        <link>https://localhost/post/muehlenrinks/</link>
+        <pubDate>Mon, 26 Dec 2022 00:00:00 +0100</pubDate>
+        
+        <guid>https://localhost/post/muehlenrinks/</guid>
+        <description>&lt;img src="https://localhost/post/muehlenrinks/muehlenrinks.png" alt="Featured image of post Mühlenrinks Enchanted" /&gt;&lt;h1 id=&#34;downloadhttpsdrivegooglecomucexportdownloadid10pwugatzz7zyp5ybmqvndeyqeltxlqtb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/uc?export=download&amp;amp;id=10PWuGATzZ7ZYP5YbMqVNDEyQeltxlqtB&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DOWNLOAD&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;beschreibung&#34;&gt;Beschreibung&lt;/h2&gt;
+&lt;p&gt;Mühlenrinks Enchanted&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;101 Felder&lt;/li&gt;
+&lt;li&gt;17 Verkaufsstellen&lt;/li&gt;
+&lt;li&gt;14 Ankaufsstellen für Dünger, Kalk und Saatgut&lt;/li&gt;
+&lt;li&gt;5 Produktionsstellen&lt;/li&gt;
+&lt;li&gt;Sammelgegenstände&lt;/li&gt;
+&lt;li&gt;Wachstumsplan des Standard-Spiels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Enchantlog 1.0.0.0:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Die alten Silos sind zurück&lt;/li&gt;
+&lt;li&gt;Die BGA im Westen kann man jetzt verkaufen&lt;/li&gt;
+&lt;li&gt;Verschiedene Bugfixes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Enchantlog 1.0.0.2:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jetzt auch Versionen 1.0.0.1 &amp;amp; 1.0.0.2 von Originalmap eingeschlossen&lt;/li&gt;
+&lt;li&gt;Weitere malbare Bodentexturen für das Baumenü hinzugefügt&lt;/li&gt;
+&lt;li&gt;Das Silo auf der BGA im Osten kann jetzt verkauft werden&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Enchantlog 1.0.0.3:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Backstein-Textur repariert&lt;/li&gt;
+&lt;li&gt;Kleinere Warnungen behoben&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Changelog 1.0.0.1:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO: Kein neuer Spielspand nötig.&lt;/li&gt;
+&lt;li&gt;Es gab einen Fehler, dass keine Missionsfahrzeuge am Händler erschienen, dies sollte nun funktionieren.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Changelog 1.0.0.2:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO: Kein neuer Spielspand nötig.&lt;/li&gt;
+&lt;li&gt;Malbare Boden und Feldtexturen für das Baumenü hinzugefügt.&lt;/li&gt;
+&lt;li&gt;Kleinere Fehler behoben.&lt;/li&gt;
+&lt;li&gt;Die Agraria-Zugstation kann über die Zugstation CornAgri mit dem Zug beliefert werden.&lt;/li&gt;
+&lt;li&gt;Die Biogasanlagen sind für den Eigengebrauch in dem das Land gekauft wird, diese nehmen keine Erzeugnisse aus Missionen oder Eigenproduktion an, wenn das Land nicht gekauft wurde.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>IHC 1046</title>
+        <link>https://localhost/post/ihc1046/</link>
+        <pubDate>Sun, 23 Oct 2022 00:00:00 +0100</pubDate>
+        
+        <guid>https://localhost/post/ihc1046/</guid>
+        <description>&lt;img src="https://localhost/post/ihc1046/ihc1046.png" alt="Featured image of post IHC 1046" /&gt;&lt;h1 id=&#34;downloadhttpsdrivegooglecomucexportdownloadid1-y1beo8c_k7rrbycnppkq1avt0mj1adv&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/uc?export=download&amp;amp;id=1-Y1BEo8c_K7RrBYCNPPkQ1AVT0MJ1adv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DOWNLOAD&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;beschreibung&#34;&gt;Beschreibung&lt;/h2&gt;
+&lt;p&gt;International Harvester Company, Neus - Modelreihe: 1046&lt;/p&gt;
+&lt;p&gt;Changelog 2.0.0.1:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;TestRunner Fehler behoben&lt;/li&gt;
+&lt;li&gt;Kollision behoben&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Landersum Edit By Sticke</title>
+        <link>https://localhost/post/landersum/</link>
+        <pubDate>Sun, 23 Oct 2022 00:00:00 +0100</pubDate>
+        
+        <guid>https://localhost/post/landersum/</guid>
+        <description>&lt;img src="https://localhost/post/landersum/landersum.png" alt="Featured image of post Landersum Edit By Sticke" /&gt;&lt;h1 id=&#34;downloadhttpsdrivegooglecomucexportdownloadid1-ov_4zrzlwwhlvoun_p5i6iynhy6_oag&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/uc?export=download&amp;amp;id=1-oV_4ZRzLWwhlVoUn_p5i6IYnHy6_oaG&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DOWNLOAD&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;beschreibung&#34;&gt;Beschreibung&lt;/h2&gt;
+&lt;p&gt;Willkommen in Landersum, Willkommen im Münsterland!&lt;/p&gt;
+&lt;p&gt;Features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;4-fach Karte&lt;/li&gt;
+&lt;li&gt;238 Felder, 5.2 ha durchschnittliche Feldgröße&lt;/li&gt;
+&lt;li&gt;255 Grundstücke&lt;/li&gt;
+&lt;li&gt;1.258 ha Gesamtfläche (1040 ha Ackerland / 247 ha Grünland)&lt;/li&gt;
+&lt;li&gt;13 Höfe, 4 Biogasanlagen&lt;/li&gt;
+&lt;li&gt;Realistischer Saatgutverbauch&lt;/li&gt;
+&lt;li&gt;Realistische Erträge&lt;/li&gt;
+&lt;li&gt;Realistische Preise für einige ausgewählte Produkte&lt;/li&gt;
+&lt;li&gt;mehr Bodenwinkel&lt;/li&gt;
+&lt;li&gt;Precision Farming Unterstützung&lt;/li&gt;
+&lt;li&gt;Früchtzerstörung 2.0&lt;/li&gt;
+&lt;li&gt;Früchte wie Baumwolle, Zuckerrohr, Oliven und Trauben wurden aus der Map entfernt&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>John Deere 6R Gen2 Extra Großer Rahmen</title>
+        <link>https://localhost/post/jd6r2021/</link>
+        <pubDate>Sat, 01 Oct 2022 00:00:00 +0100</pubDate>
+        
+        <guid>https://localhost/post/jd6r2021/</guid>
+        <description>&lt;img src="https://localhost/post/jd6r2021/series6R.png" alt="Featured image of post John Deere 6R Gen2 Extra Großer Rahmen" /&gt;&lt;h1 id=&#34;downloadhttpsdrivegooglecomucexportdownloadid1-dbhuaekuszwimsf1s8pdxm_fxflwlac&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/uc?export=download&amp;amp;id=1-dBHUAEkUsZWImsF1s8pdXM_fxFlWlAc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DOWNLOAD&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;beschreibung&#34;&gt;Beschreibung&lt;/h2&gt;
+&lt;p&gt;Serie 6R: Go Smart, Do More
+6R Traktoren mit extragroßem Rahmen: Für extrastarke Leistung&lt;/p&gt;
+&lt;p&gt;Modell: 6R 230
+Art: Mittelgroße Traktoren
+Basispreis: 235.500€
+Motorleistung: 253 PS (186 kW) Maximalleistung (ECE-R120) + 28 PS (20 kW) IPM
+Motor: 6,8-l-Motor mit 6 Zylindern
+Rahmen: 9,65 t und 2,90 m Radstand
+Getriebevarianten zur Auswahl: AutoPowr&lt;/p&gt;
+&lt;p&gt;Modell: 6R 250
+Art: Mittelgroße Traktoren
+Basispreis: 245.500€
+Motorleistung: 275 PS (202 kW) Maximalleistung (ECE-R120) + 26 PS (20 kW) IPM
+Motor: 6,8-l-Motor mit 6 Zylindern
+Rahmen: 9,65 t und 2,90 m Radstand
+Getriebevarianten zur Auswahl: AutoPowr&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>7810 Mit Realistischer Schaltung</title>
+        <link>https://localhost/post/7810/</link>
+        <pubDate>Wed, 28 Sep 2022 00:00:00 +0100</pubDate>
+        
+        <guid>https://localhost/post/7810/</guid>
+        <description>&lt;img src="https://localhost/post/7810/7810.png" alt="Featured image of post 7810 Mit Realistischer Schaltung" /&gt;&lt;h1 id=&#34;downloadhttpsdrivegooglecomucexportdownloadid1-mb9s0asddjqtbrz-kvb4ho4mtr8chic&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/uc?export=download&amp;amp;id=1-MB9S0aSddJqtBrz-kvb4ho4mTR8Chic&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DOWNLOAD&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;beschreibung&#34;&gt;Beschreibung&lt;/h2&gt;
+&lt;p&gt;Preis: 99.500 €
+Geschwindigkeit: 40/50 km/h
+Leistung: 175 PS&lt;/p&gt;
+&lt;p&gt;Fügt ein 50 km/h Getriebe hinzu und Felgen können lackiert werden.&lt;/p&gt;
+&lt;p&gt;Changelog 2.0.0.0&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Radnaben sind jetzt auch in Farbe der Felgen&lt;/li&gt;
+&lt;li&gt;Getriebe nach realistischen Daten&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Changelog 3.0.0.0&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;50 km/h Getriebe hinzugefügt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Changelog 4.0.0.0&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hirsch hinzugefügt&lt;/li&gt;
+&lt;li&gt;50 km/h Getriebe jetzt realistischer&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Fortuna FTM 300 / 9.0 Edit By Sticke</title>
+        <link>https://localhost/post/fortunaftm300/</link>
+        <pubDate>Sun, 25 Sep 2022 00:00:00 +0100</pubDate>
+        
+        <guid>https://localhost/post/fortunaftm300/</guid>
+        <description>&lt;img src="https://localhost/post/fortunaftm300/ftm300.png" alt="Featured image of post Fortuna FTM 300 / 9.0 Edit By Sticke" /&gt;&lt;h1 id=&#34;downloadhttpsdrivegooglecomucexportdownloadid1-ms0x0pxtxfscnlnbwsv9nbwu7dp_vjv&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/uc?export=download&amp;amp;id=1-Ms0x0pXTXfsCNLNBWSV9nbWu7Dp_vJv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DOWNLOAD&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;beschreibung&#34;&gt;Beschreibung&lt;/h2&gt;
+&lt;p&gt;Fortuna FTM 300 / 9.0
+Preis: 50.500€
+Kapazität: 49.000 l&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>John Deere 6020 Serie</title>
+        <link>https://localhost/post/jd6020/</link>
+        <pubDate>Fri, 08 Apr 2022 00:00:00 +0100</pubDate>
+        
+        <guid>https://localhost/post/jd6020/</guid>
+        <description>&lt;img src="https://localhost/post/jd6020/series6P.png" alt="Featured image of post John Deere 6020 Serie" /&gt;&lt;h1 id=&#34;downloadhttpsdrivegooglecomucexportdownloadid1-bdsuvlfteeyzwk88s9yf_vxhne2audc&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/uc?export=download&amp;amp;id=1-bdSUvlftEeYzWk88S9Yf_VxhNE2aUdc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DOWNLOAD&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;beschreibung&#34;&gt;Beschreibung&lt;/h2&gt;
+&lt;p&gt;John Deere 6020 Series&lt;/p&gt;
+&lt;p&gt;Changelog 1.1.0.0&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Blinker repariert&lt;/li&gt;
+&lt;li&gt;RPM and und Geschwindigkeits-Amatur repariert&lt;/li&gt;
+&lt;li&gt;Nummernschilder hinzugefügt&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Gemeinde Rade Edit By Sticke</title>
+        <link>https://localhost/post/rade/</link>
+        <pubDate>Tue, 22 Mar 2022 00:00:00 +0100</pubDate>
+        
+        <guid>https://localhost/post/rade/</guid>
+        <description>&lt;img src="https://localhost/post/rade/rade.png" alt="Featured image of post Gemeinde Rade Edit By Sticke" /&gt;&lt;h1 id=&#34;downloadhttpsdrivegooglecomucexportdownloadid109wa4ja8emqs2fzwna5ggxxa3lnphsod&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/uc?export=download&amp;amp;id=109wA4jA8eMqs2fzWna5gGXxA3LNPHsoD&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DOWNLOAD&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;beschreibung&#34;&gt;Beschreibung&lt;/h2&gt;
+&lt;p&gt;Willkommen auf der Gemeinde Rade. Hier habt ihr eine schöne Karte im Herzen von Schleswig-Holstein.
+Die Felder und Straßen sind nach realem Vorbild angelegt worden. Die Höfe habe ich nun aber mal nach meinem Geschmack verbaut.
+Ihr findet auf der Map einen Kuhhof, Schweinehof und eine kleinen Schafshof. Auch als Lohner könnt ihr im Multiplayer euer Geld verdienen.
+Die Map ist mit einer maximalen Arbietsbreite von 6m zu empfehlen, da die Feldwege sehr eng sind.&lt;/p&gt;
+&lt;p&gt;Ich wünsche euch viel Spass mit der Gemeinde Rade.&lt;/p&gt;
+&lt;p&gt;Update 1.1.0.0&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;FarmID&amp;rsquo;s angepasst&lt;/li&gt;
+&lt;li&gt;Kuhweiden funktional gemacht&lt;/li&gt;
+&lt;li&gt;diverse schwebende Objekte angepasst&lt;/li&gt;
+&lt;li&gt;Fehler mit TipColli behoben an den Kuhweiden&lt;/li&gt;
+&lt;li&gt;Ankauf für Schweinefutter und Mischfutter eingebaut (beim Viehändler)&lt;/li&gt;
+&lt;li&gt;Seasons erweitert incl. Missionen&lt;/li&gt;
+&lt;li&gt;Bga Fehler behoben (Silos bleiben voll nach speichern)&lt;/li&gt;
+&lt;li&gt;Textur Fehler behoben&lt;/li&gt;
+&lt;li&gt;MB Anzahl reduziert&lt;/li&gt;
+&lt;li&gt;Fehler mit Lichtern behobnen (Kuhstall)&lt;/li&gt;
+&lt;li&gt;Fehler mit Courseplay behoben&lt;/li&gt;
+&lt;li&gt;Beim Lohner noch Werkstatt und Tankstelle verbaut&lt;/li&gt;
+&lt;li&gt;Trigger beim Holzverkauf richtig gesetzt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Update 3.0.1.0&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Konvertierung in den LS22&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Update 3.0.1.1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fehler mit den Triggern der Fahrsilos behoben&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Update 3.0.2.0&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ungenutze Dateien entfernt&lt;/li&gt;
+&lt;li&gt;Anzahl der Bäume im Wald verringert&lt;/li&gt;
+&lt;li&gt;Probleme mit Shadern behoben&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Update 3.0.2.1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gebäude vom Schweinehof entfernt&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
