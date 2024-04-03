@@ -8,7 +8,7 @@ categories = [
 ]
 image = "ihc1046.png"
 +++
-# [DOWNLOAD](https://drive.google.com/uc?export=download&id=1-Y1BEo8c_K7RrBYCNPPkQ1AVT0MJ1adv)
+# [DOWNLOAD](https://magentacloud.de/s/BA38qj9wDTxE3xe/download?path=%2FBy%20Sticke&files=FS22_IHC_1046.zip)
 
 ## Beschreibung
 

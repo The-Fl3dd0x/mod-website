@@ -8,7 +8,7 @@ categories = [
 ]
 image = "ellerbach.png"
 +++
-# [DOWNLOAD](https://drive.google.com/uc?export=download&id=1b3qmTFEtyvzU2U7LeL1VJ9w15W-viLLl)
+# [DOWNLOAD](https://magentacloud.de/s/BA38qj9wDTxE3xe/download?path=%2FBy%20Sticke&files=FS22_EllerbachBySticke.zip)
 
 ## Beschreibung
 

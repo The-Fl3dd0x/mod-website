@@ -8,7 +8,7 @@ categories = [
 ]
 image = "muehlenrinks.png"
 +++
-# [DOWNLOAD](https://drive.google.com/uc?export=download&id=10PWuGATzZ7ZYP5YbMqVNDEyQeltxlqtB)
+# [DOWNLOAD](https://magentacloud.de/s/BA38qj9wDTxE3xe/download?path=%2FBy%20Sticke&files=FS22_Muehlenrinks_Enchanted.zip)
 
 ## Beschreibung
 

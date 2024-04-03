@@ -8,7 +8,7 @@ categories = [
 ]
 image = "ftm300.png"
 +++
-# [DOWNLOAD](https://drive.google.com/uc?export=download&id=1-Ms0x0pXTXfsCNLNBWSV9nbWu7Dp_vJv)
+# [DOWNLOAD](https://magentacloud.de/s/BA38qj9wDTxE3xe/download?path=%2FBy%20Sticke&files=FS22_fortunaFTM300.zip)
 
 ## Beschreibung
 

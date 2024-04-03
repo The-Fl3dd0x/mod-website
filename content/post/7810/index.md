@@ -8,7 +8,7 @@ categories = [
 ]
 image = "7810.png"
 +++
-# [DOWNLOAD](https://drive.google.com/uc?export=download&id=1-MB9S0aSddJqtBrz-kvb4ho4mTR8Chic)
+# [DOWNLOAD](https://magentacloud.de/s/BA38qj9wDTxE3xe/download?path=%2FBy%20Sticke&files=FS22_7810Transmission.zip)
 
 ## Beschreibung
 

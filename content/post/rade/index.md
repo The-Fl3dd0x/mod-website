@@ -8,7 +8,7 @@ categories = [
 ]
 image = "rade.png"
 +++
-# [DOWNLOAD](https://drive.google.com/uc?export=download&id=109wA4jA8eMqs2fzWna5gGXxA3LNPHsoD)
+# [DOWNLOAD](https://magentacloud.de/s/BA38qj9wDTxE3xe/download?path=%2FBy%20Sticke&files=FS22_RadeEditBySticke.zip)
 
 ## Beschreibung
 

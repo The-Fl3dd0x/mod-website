@@ -8,7 +8,7 @@ categories = [
 ]
 image = "golfCart.png"
 +++
-# [DOWNLOAD](https://drive.google.com/uc?export=download&id=1-4Kl_nhorXX4iuIHZdCI0e180zI5aLlf)
+# [DOWNLOAD](https://magentacloud.de/s/BA38qj9wDTxE3xe/download?path=%2FBy%20Sticke&files=FS22_lizardGolfCartTuned.zip)
 
 ## Beschreibung
 

@@ -8,7 +8,7 @@ categories = [
 ]
 image = "series6P.png"
 +++
-# [DOWNLOAD](https://drive.google.com/uc?export=download&id=1-bdSUvlftEeYzWk88S9Yf_VxhNE2aUdc)
+# [DOWNLOAD](https://magentacloud.de/s/BA38qj9wDTxE3xe/download?path=%2FBy%20Sticke&files=FS22_JohnDeere6020Series.zip)
 
 ## Beschreibung
 

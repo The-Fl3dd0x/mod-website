@@ -8,7 +8,7 @@ categories = [
 ]
 image = "landersum.png"
 +++
-# [DOWNLOAD](https://drive.google.com/uc?export=download&id=1-oV_4ZRzLWwhlVoUn_p5i6IYnHy6_oaG)
+# [DOWNLOAD](https://magentacloud.de/s/BA38qj9wDTxE3xe/download?path=%2FBy%20Sticke&files=FS22_LandersumEditBySticke.zip)
 
 ## Beschreibung
 
